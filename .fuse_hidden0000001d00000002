@@ -5,18 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Humanizing an AI-Driven World — Kill Dull™</title>
 
-<!-- Favicon: Kill Dull mark (black circle, yellow square) -->
-<link rel="icon" type="image/png" href="data:image/png;base64,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">
+<!-- Favicon: yellow CA monogram -->
+<link rel="icon" type="image/png" href="data:image/png;base64,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DXyQmy2FxBNfVMO8rf8ApM4F/t4N8exSj0v5N+n+HGKsuFMckujNj09ewdEx3eyH5I/a5xHYV2cAAAAAAdQC1Xj/AAoRydLC46+vJeUf3+RfUrHfUNS0w07xbTqxC143QCMuANRVSbOnqXDte7t8ANgN+AC25EWn7m5q3VWVatJyk9retskVFRWSCIioH0IiIAiIgCIiAIiIAiIgCIiAIiIDAZPhmJZOwtyDG7VcyRtz6ilY949jiOcPIrmt65MWklwLnU9pr7Y53HekrpOHsEnOA9y7SilLPGsRsllb15RXQpPL5bDxKlCW1Eaqvkf4a57jSZTf4m9glEMhHmGtXibyOrF0m7s2uRZ3CjYD7+d/RSiRTEdOcfislcv5R/Yp8lpdUjfQckHBo5A6tyPIaho62xuhj3/gK3Gxcm3SK1vZI7HZbhIzqdWVkjx5tBDT5hdfRWtxpbjdwsp3M/B5eWR9VvSWyJi7Bjtgx+n9HsVkt1ri22LaSmZED7eaBusoiKAqVJ1JOU3m3vZWSy2BEReAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQH//2Q==">
 
 <!-- SEO & Social -->
-<meta name="description" content="10 principles for building brands worth paying attention to. A manifesto for the commercially creative.">
+<meta name="description" content="12 principles for building brands worth paying attention to. A manifesto for the commercially creative.">
 <meta name="author" content="Peter Buck">
 <meta property="og:title" content="Humanizing an AI-Driven World">
 <meta property="og:description" content="Interesting is the most profitable thing a brand can be.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Humanizing an AI-Driven World — Kill Dull™">
-<meta name="twitter:description" content="10 principles. 3 phases. The case for human creativity in an AI-driven world.">
+<meta name="twitter:description" content="12 principles. 3 phases. The case for human creativity in an AI-driven world.">
 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,400&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
@@ -580,7 +580,7 @@
   <p>Make brands interesting.<br><strong style="color:var(--yellow);font-style:normal;border:none">Very interesting.</strong></p>
   <p>In a world drowning in AI output, the brands that win aren't the ones producing the most. They're the ones meaning the most.</p>
   <p>Big human ideas start conversations. Conversations build relationships. Relationships build brands. Brands sell products. Products beat competition.</p>
-  <p>This book is a process. Ten principles. Three phases. One goal: build a brand worth paying attention to — and paying a premium for. For decades.</p>
+  <p>This book is a process. Twelve principles. Three phases. One goal: build a brand worth paying attention to — and paying a premium for. For decades.</p>
   <p>Never self-serving. Always results-driven.</p>
   <div class="asterisk">*WARC &amp; Kantar, 2023: creatively-driven brands outperform by 4x on profit metrics. <span style="color:var(--yellow);white-space:nowrap">That's not a creative argument. That's a financial one.</span></div>
 </div>
@@ -687,14 +687,14 @@
   <div class="chapter-left">
     <div>
       <div class="chapter-number">Chapter 03 — Phase One</div>
-      <div class="chapter-title">SIMPLE BEATS<br><span class="y">CLEVER.</span></div>
-      <div class="chapter-sub">Understanding beats decoding. Clarity defeats unnecessary cleverness.</div>
+      <div class="chapter-title">SIMPLE<br><span class="y">ISN'T.</span></div>
+      <div class="chapter-sub">Clarity requires discipline, intelligence, and restraint.</div>
     </div>
     <div class="chapter-body">
-      <p>Clarity beats cleverness. Every time.</p>
+      <p>Simple is the hardest thing you'll ever make.</p>
       <p>Anyone can add. Subtracting takes nerve. Every word cut is a small act of courage. Every idea stripped to its core has survived a fight. That fight is the work.</p>
       <div class="pullquote">COMPLEXITY IS EASY. CLARITY IS THE ACHIEVEMENT.</div>
-      <p>Complexity can be necessary. Confusion never is. Clever work makes the audience do the decoding; clear work does it for them. Simple ideas are remembered — clever ones are admired, then forgotten before the meeting ends. The great insight fits on a Post-it.</p>
+      <p>Simple ideas are remembered. Complex ones are forgotten before the meeting ends. The brief that needs three pages has already failed. The great insight fits on a Post-it.</p>
       <div class="accent-block">If you can't say it simply, you don't understand it well enough. Keep going.</div>
       <div class="checklist-q"><strong>Ask yourself</strong><br>Can a stranger understand what this brand stands for in under ten seconds?</div>
     
@@ -784,8 +784,8 @@
   <div class="chapter-left">
     <div>
       <div class="chapter-number">Chapter 05 — Phase Two</div>
-      <div class="chapter-title">HUMOR OPENS<br><span class="y">WALLETS.</span></div>
-      <div class="chapter-sub">Making people laugh can make business move.</div>
+      <div class="chapter-title">LAUGHTER IS<br><span class="y">CONTAGIOUS.</span></div>
+      <div class="chapter-sub">Human connection creates memorability.</div>
     </div>
     <div class="chapter-body">
       <p>Funny is serious business.</p>
@@ -920,7 +920,7 @@
 <div class="chapter">
   <div class="chapter-left">
     <div>
-      <div class="chapter-number">Chapter 08 — Phase Three</div>
+      <div class="chapter-number">Chapter 09 — Phase Three</div>
       <div class="chapter-title">INVISIBLE<br>IS <span class="y">ENEMY.</span></div>
       <div class="chapter-sub">Brands without emotional relevance disappear.</div>
     </div>
@@ -960,7 +960,7 @@
 <div class="chapter dark">
   <div class="chapter-left">
     <div>
-      <div class="chapter-number">Chapter 09 — Phase Three</div>
+      <div class="chapter-number">Chapter 10 — Phase Three</div>
       <div class="chapter-title">RISK CREATES<br><span class="y">REWARDS.</span></div>
       <div class="chapter-sub">Meaningful progress requires calculated courage.</div>
     </div>
@@ -968,7 +968,7 @@
       <p>Risk isn't the opposite of responsibility. Timidity is.</p>
       <p>Every important brand decision involves uncertainty. The choice is never between risky and safe. It's between calculated risk and the quiet risk of standing still while the world moves on.</p>
       <div class="pullquote">THE MOST DANGEROUS THING YOU CAN DO IS NOTHING DIFFERENT.</div>
-      <p>Calculated courage means knowing your audience, trusting your instincts — and leaping. Not blindly. With purpose. The brands that last didn't avoid failure. They learned faster from it. Playing it safe isn't caution — it's quietly betting against your own brand. You can always make a brave idea safer later; you can never make a safe one braver.</p>
+      <p>Calculated courage means knowing your audience, trusting your instincts — and leaping. Not blindly. With purpose. The brands that last didn't avoid failure. They learned faster from it.</p>
       <div class="accent-block">Risk without insight is recklessness. Insight without risk is paralysis. You need both.</div>
       <div class="checklist-q"><strong>Ask yourself</strong><br>What would we do if we weren't afraid of getting it wrong?</div>
     
@@ -1000,7 +1000,7 @@
 <div class="chapter">
   <div class="chapter-left">
     <div>
-      <div class="chapter-number">Chapter 10 — Phase Three</div>
+      <div class="chapter-number">Chapter 11 — Phase Three</div>
       <div class="chapter-title">DULL IS<br><span class="y">EXPENSIVE.</span></div>
       <div class="chapter-sub">Boring brands lose attention, relevance, and value.</div>
     </div>
@@ -1051,7 +1051,7 @@
     </div>
     <div class="checklist-item">
       <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
-      <div class="checklist-text"><strong>SIMPLE BEATS CLEVER</strong><span>Can a stranger understand what this brand stands for in under ten seconds?</span></div>
+      <div class="checklist-text"><strong>SIMPLE ISN'T</strong><span>Can a stranger understand what this brand stands for in under ten seconds?</span></div>
     </div>
   </div>
 
@@ -1063,7 +1063,7 @@
     </div>
     <div class="checklist-item">
       <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
-      <div class="checklist-text"><strong>HUMOR OPENS WALLETS</strong><span>Is there a moment of delight, surprise, or warmth that makes this feel alive?</span></div>
+      <div class="checklist-text"><strong>LAUGHTER IS CONTAGIOUS</strong><span>Is there a moment of delight, surprise, or warmth that makes this feel alive?</span></div>
     </div>
     <div class="checklist-item">
       <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
@@ -1079,6 +1079,10 @@
     <div class="checklist-phase-label">Phase Three — Build the Brand</div>
     <div class="checklist-item">
       <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
+      <div class="checklist-text"><strong>DARING IS CARING</strong><span>What's the uncomfortable version of this idea — and is it actually better?</span></div>
+    </div>
+    <div class="checklist-item">
+      <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
       <div class="checklist-text"><strong>INVISIBLE IS ENEMY</strong><span>If this brand went quiet for a year, would anyone notice — or miss it?</span></div>
     </div>
     <div class="checklist-item">
@@ -1088,6 +1092,10 @@
     <div class="checklist-item">
       <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
       <div class="checklist-text"><strong>DULL IS EXPENSIVE</strong><span>Is there a single moment in this work someone will remember tomorrow?</span></div>
+    </div>
+    <div class="checklist-item">
+      <div class="checklist-box" onclick="this.classList.toggle('checked')"></div>
+      <div class="checklist-text"><strong>FAME IS INVALUABLE</strong><span>Is this brand becoming part of culture — or just part of the media plan?</span></div>
     </div>
   </div>
 </div>
@@ -1100,8 +1108,7 @@
   <div class="closing-top">
     <h2>NOW GO MAKE<br>SOMETHING<br>INTERESTING.<br><span class="y">VERY INTERESTING.</span></h2>
     <p>The world doesn't need more content. It needs more ideas worth caring about. Brands worth believing in. Work that reminds people — just for a moment — that there's something human behind the logo.</p>
-    <p>Do this well and fame follows — not as a principle to chase, but as the reward the principles earn. Brand equity with compounding interest. Fame is the outcome, never the input.</p>
-    <p>Ten principles. Three phases. One question that never changes:</p>
+    <p>Twelve principles. Three phases. One question that never changes:</p>
     <div class="closing-question">Is this interesting enough to matter?</div>
   </div>
   <div class="closing-bottom" style="align-items:flex-end;">
